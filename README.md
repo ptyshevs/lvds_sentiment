@@ -23,7 +23,7 @@ This repository contains my attempt to solve [Sentiment Analysis](https://en.wik
 
 1. Run steps 1-4 from previous algorithm
 2. Download and extract `glove.6B.zip` from [Stanford NLP page](https://nlp.stanford.edu/projects/glove/).
-3. Run `train_imdb_rnn50.ipynb` and `train_imdb_rnn200.ipynb`. Best 5-fold accuracy with data enhancement is **0.86**.
+3. Run `train_imdb_rnn50.ipynb` and `train_imdb_rnn200.ipynb`. Best 5-fold accuracy with data enhancement is **0.8725**.
 
 ### References
 
